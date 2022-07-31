@@ -1,0 +1,9 @@
+
+la touche delete a ete appuye
+
+tsma tsma 
+la touche ctrl_l a ete appuye
+
+la touche \x01 a ete appuye
+tsma 2min nmot hh
+keylog
